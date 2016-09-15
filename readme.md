@@ -7,6 +7,13 @@ typeset in ordinary English orthography by [Jackson Lee](http://jacksonllee.com/
 - PDF: [`chao1930.pdf`](chao1930.pdf)
 - LaTeX source code: [`chao1930.tex`](chao1930.tex)
 
+To compile the ``.tex`` (assuming you are at this directory on the command line):
+
+```
+$ latex chao1930.tex
+$ dvipdf chao1930.dvi
+```
+
 A scan of the original paper (written in IPA) is also available:
 [`chao1930-original.pdf`](chao1930-original.pdf)
 
@@ -23,5 +30,6 @@ and the Tibetan illustration, page 27). Thanks to Alexis Michaud for
 pointing out the differences.
 
 - July 2015
+
   First version
 
