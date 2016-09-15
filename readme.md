@@ -1,5 +1,5 @@
-A system of "tone-letters" (Chao 1930), typeset in ordinary English orthography
-===============================================================================
+A system of "tone-letters" (Chao 1930)
+======================================
 
 This repository hosts the Chao 1930 paper entitled 'A system of "tone-letters"'
 typeset in ordinary English orthography by [Jackson Lee](http://jacksonllee.com/):
@@ -15,7 +15,7 @@ Change log
 
 - September 2016
 
-Differentiate the two kinds of "tone letters", one with the reference bars
+  Differentiate the two kinds of "tone letters", one with the reference bars
 on the *right* (as implemented in vanilla LaTeX ``tipa``) and the other with the
 reference bars on the *left*
 (as used for English intonation, page 26 of Chao 1930,
@@ -23,6 +23,5 @@ and the Tibetan illustration, page 27). Thanks to Alexis Michaud for
 pointing out the differences.
 
 - July 2015
-
-First version
+  First version
 
